@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+.venv311/
+.git/
+.pytest_cache/
+**/__pycache__/
+*.py[cod]
+data/raw/
+data/processed/
+data/rejected/
+logs/
+reports/

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.venv311/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local data and logs
+logs/
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+
+# Editor folders
+.vscode/
+
+# Build artifacts
+*.egg-info/
+.dist/
+
+# Generated ETL outputs
+data/processed/
+data/rejected/
+data/raw/
+
+# Local reports and storage
+reports/
+storage/
+
+# Streamlit
+.streamlit/secrets.toml

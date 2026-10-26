@@ -1,0 +1,13 @@
+order_id,customer_id,customer_name,product_id,product_name,category,order_date,quantity,unit_price,discount_percent,total_amount,payment_method
+ORD-1001,CUST-001,Alice Johnson,PROD-101,Laptop 14,Electronics,2024-01-04,2,899.99,5,1708.98,Card
+ORD-1002,CUST-002,Bob Smith,PROD-202,Office Chair,Furniture,2024-01-06,1,149.50,0,149.5,Card
+ORD-1001,CUST-001,Alice Johnson,PROD-101,Laptop 14,Electronics,2024-01-04,2,899.99,5,1708.98,Card
+ORD-1003,CUST-003,,PROD-303,Wireless Mouse,Electronics,2024-01-10,1,24.99,0,24.99,Card
+ORD-1004,CUST-004,Carla Jones,PROD-404,Notebook,Stationery,invalid-date,2,12.50,0,25.0,Card
+ORD-1005,CUST-005,Dan Lee,PROD-505,Desk Lamp,Home,2024-01-18,0,39.99,0,0,Card
+ORD-1006,CUST-006,Ela Park,PROD-606,Monitor Stand,Office,2024-01-22,-3,75.99,10,-227.97,Card
+ORD-1007,CUST-007,Fred Gomez,PROD-707,USB Cable,Electronics,2024-01-24,2,-15.50,0,-31.0,Card
+ORD-1008,CUST-008,Gina Patel,PROD-808,Keyboard,Electronics,2024-01-28,3,64.99,0,194.97,Card
+ORD-1009,CUST-009,Hari Singh,PROD-909,Mechanical Pencil,Stationery,2024-02-01,2,2.99,0,5.98,Card
+ORD-1010,CUST-010,Iris Chen,PROD-1010,Monitor,Electronics,2024-02-03,1,299.00,0,350.00,Card
+ORD-1011,CUST-011,Jane Doe,PROD-1111,Book Shelf,Furniture,2024-02-05,1,120.00,0,120.00,Card
